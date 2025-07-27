@@ -44,4 +44,4 @@
 ---
 
 > _"I believe that knowledge should be shared — let’s learn and grow together."_  
-> <p align="right">— DuyetBKU</p>
+> <p align="right">— DuyetBKU —</p>
