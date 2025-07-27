@@ -37,9 +37,9 @@ Bộ Quy tắc Ứng xử này áp dụng trong tất cả không gian cộng đ
 
 ## Enforcement (Thi hành)
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [your-email@example.com].
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [duyet.cao1203@hcmut.edu.vn].
 
-Những hành vi lạm dụng, quấy rối hoặc không thể chấp nhận có thể được báo cáo đến ban lãnh đạo cộng đồng chịu trách nhiệm thi hành tại [email của bạn].
+Những hành vi lạm dụng, quấy rối hoặc không thể chấp nhận có thể được báo cáo đến ban lãnh đạo cộng đồng chịu trách nhiệm thi hành tại [duyet.cao1203@hcmut.edu.vn].
 
 All complaints will be reviewed and investigated promptly and fairly.
 
