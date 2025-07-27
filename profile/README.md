@@ -44,4 +44,4 @@
 ---
 
 > _"Mình tin rằng tri thức nên được chia sẻ – cùng nhau học, cùng nhau phát triển."_  
-> <p align="right">— DuyetBKU</p>
+> <p align="right">— DuyetBKU —</p>
