@@ -38,7 +38,7 @@
 ## 💌 Connect with Me / Kết nối với mình
 
 - 📧 Email: `duyet.cao1203@hcmut.edu.vn`
-- 🌐 Website: https://architect.quarasal.com ()
+- 🌐 Website: https://architect.quarasal.com (Ctrl + Click để mở tab mới)
 - 💬 Hãy mở issue hoặc pull request nếu bạn muốn đóng góp hoặc trao đổi thêm nha!
 
 ---
