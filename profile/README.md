@@ -8,9 +8,7 @@
 ---https://github.com/DuyetBKU
 </p>  
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=DuyetBKU&show_icons=true&theme=react" alt="DuyetBKU's GitHub stats" />
-  </a>
 </p>
 
 
@@ -108,7 +106,9 @@
 
 ## 📊 GitHub Activity
 
-[![My GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=DuyetBKU&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuyetBKU&theme=react-dark" alt="DuyetBKU's GitHub Activity" />
+</p>
 
 ---
 
