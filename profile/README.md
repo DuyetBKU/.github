@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to DuyetBKU's GitHub 🌟</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=48&letterSpacing=1.5px&pause=2000&color=61DAFB&background=000000&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DuyetBKU.+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=61DAFB&background=000000&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DuyetBKU.+(o%E3%82%9C%E2%96%BD%E3%82%9C)o%E2%98%86;Follow+me!!!+(%E2%89%A7%E2%88%87%E2%89%A6)%EF%BE%89)" alt="Typing SVG" />
 </p>
 
 <p align="center">
