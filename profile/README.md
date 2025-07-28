@@ -1,5 +1,3 @@
-<p align="center">
-</p>
 <h2 align="center">Welcome to DuyetBKU's GitHub 🌟</h2>    
 
 
