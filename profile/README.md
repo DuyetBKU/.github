@@ -1,6 +1,10 @@
 <h2 align="center">Welcome to DuyetBKU's GitHub 🌟</h2>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=48&letterSpacing=1.5px&pause=2000&color=61DAFB&background=000000&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DuyetBKU.+" alt="Typing SVG" />
+</p>
+
+<p align="center">
   👋 Hi there! I'm <strong>DuyetBKU</strong> – an architect, software developer, and tech researcher who’s passionate about creativity, innovation, and open sharing.  
   <br/>
   This is my personal GitHub profile where I share <strong>open-source projects</strong>, <strong>technical resources</strong>, and <strong>hands-on experiences</strong> in the field.
