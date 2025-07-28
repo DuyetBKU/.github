@@ -24,7 +24,7 @@ https://github.com/DuyetBKU
 - 💡 I love building beautiful, practical tools — from small utilities to full-scale smart systems.
 - 📚 My mission: To contribute to the development of Smart Building and Smart City technologies in Vietnam.
 
-## 🔧 My Core Skill
+## 🔧 My Core Skills
 <h3 align="center">🛠️ Development Tools & Languages</h3>
 <p align="center">
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
