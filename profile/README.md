@@ -1,5 +1,8 @@
 <h2 align="center">Welcome to DuyetBKU's GitHub 🌟</h2>  
 <p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU.github" />
+</p>
+<p align="center">
   <img src="https://i.postimg.cc/vm2PwbZN/Back-to-school.gif" width="200" alt="Back to school animation" />
 </p>
 <p align="center">
@@ -140,7 +143,5 @@ https://github.com/DuyetBKU
 
 > _"I believe that knowledge should be shared — let’s learn and grow together."_  
 > <p align="right">— DuyetBKU —</p>
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU.github" />
-</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
