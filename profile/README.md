@@ -1,5 +1,10 @@
 <h2 align="center">Welcome to DuyetBKU's GitHub 🌟</h2>    
-
+<p align="center">
+  <iframe src="https://lottie.host/embed/c79bc78a-eb98-412c-b897-8c4e5415539e/X54Qhn8LPW.lottie" 
+          style="width: 400px; height: 400px; border: none;" 
+          allowfullscreen>
+  </iframe>
+</p>
   <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DuyetBKU.+(o%E3%82%9C%E2%96%BD%E3%82%9C)o%E2%98%86;%E2%98%86+%EF%BD%A1%EF%BD%A1%EF%BD%A1+A+long+journey+is+just+beginning+%EF%BD%A1%EF%BD%A1%EF%BD%A1%E2%98%86+;Follow+me!!!+(%E2%89%A7%E2%88%87%E2%89%A6)%EF%BE%89)" alt="Typing SVG" />
 </p>
 
