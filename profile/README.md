@@ -140,4 +140,7 @@ https://github.com/DuyetBKU
 
 > _"I believe that knowledge should be shared — let’s learn and grow together."_  
 > <p align="right">— DuyetBKU —</p>
+<p align="center">
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU)
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
