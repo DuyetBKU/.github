@@ -14,7 +14,7 @@
 - 📚 My mission: To contribute to the development of Smart Building and Smart City technologies in Vietnam.
 
 ## 🔧 My Tech Stack
-<h3 align="center">🧰 Development Tools</h3>
+<h3 align="center">🛠️ Development Tools & Languages</h3>
 <p align="center">
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -22,10 +22,8 @@
   <a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
   <a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" /></a>
-</p>
-
-<h3 align="center">📦 Programming Languages</h3>
-<p align="center">
+  <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" /></a>
+  <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" /></a>
   <a href="https://www.r-project.org"><img src="https://skillicons.dev/icons?i=r" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
@@ -35,7 +33,7 @@
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" /></a>
 </p>
 
-<h3 align="center">🌐 Web & UI</h3>
+<h3 align="center">🌐 Web, Cloud & Frameworks</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
@@ -43,27 +41,7 @@
   <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
   <a href="https://htmx.org"><img src="https://skillicons.dev/icons?i=htmx" /></a>
   <a href="https://mui.com"><img src="https://skillicons.dev/icons?i=materialui" /></a>
-  <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a>
-  <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" /></a>
-</p>
-
-<h3 align="center">📊 Data / AI / Math</h3>
-<p align="center">
-  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
-  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" /></a>
-  <a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex" /></a>
-  <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=md" /></a>
-</p>
-
-<h3 align="center">🧱 Architecture & BIM</h3>
-<p align="center">
-  <a href="https://www.autodesk.com/products/autocad/"><img src="https://skillicons.dev/icons?i=autocad" /></a>
-  <a href="https://www.sketchup.com"><img src="https://skillicons.dev/icons?i=sketchup" /></a>
-  <a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender" /></a>
-</p>
-
-<h3 align="center">🔧 DevOps & Backend</h3>
-<p align="center">
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
   <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" /></a>
   <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
@@ -72,21 +50,29 @@
   <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" /></a>
 </p>
 
-<h3 align="center">🔬 Hardware & Electronics</h3>
-<p align="center">
-  <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" /></a>
-  <a href="https://www.raspberrypi.com"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
-</p>
-
-<h3 align="center">🎨 Design & Media</h3>
+<h3 align="center">🎨 Design, Architecture & 3D</h3>
 <p align="center">
   <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
   <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" /></a>
+  <a href="https://www.autodesk.com/products/autocad/"><img src="https://skillicons.dev/icons?i=autocad" /></a>
+  <a href="https://www.sketchup.com"><img src="https://skillicons.dev/icons?i=sketchup" /></a>
+  <a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender" /></a>
+  <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" /></a>
 </p>
 
-<h3 align="center">💻 Platforms & OS</h3>
+<h3 align="center">📊 Data, AI & Writing</h3>
 <p align="center">
+  <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" /></a>
+  <a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex" /></a>
+  <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=md" /></a>
+</p>
+
+<h3 align="center">🧰 Hardware, OS & Utilities</h3>
+<p align="center">
+  <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" /></a>
+  <a href="https://www.raspberrypi.com"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
   <a href="https://www.apple.com"><img src="https://skillicons.dev/icons?i=apple" /></a>
   <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
   <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
@@ -94,15 +80,13 @@
   <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" /></a>
 </p>
 
-<h3 align="center">🌐 Others</h3>
+<h3 align="center">📡 Communication & Social</h3>
 <p align="center">
   <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" /></a>
   <a href="https://mail.google.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
-
-
 
 ---
 
