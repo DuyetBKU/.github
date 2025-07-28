@@ -4,9 +4,17 @@
   👋 Hi there! I'm <strong>DuyetBKU</strong> – an architect, software developer, and tech researcher who’s passionate about creativity, innovation, and open sharing.  
   <br/>
   This is my personal GitHub profile where I share <strong>open-source projects</strong>, <strong>technical resources</strong>, and <strong>hands-on experiences</strong> in the field.
+  <br/>
+---https://github.com/DuyetBKU
+</p>  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DuyetBKU&show_icons=true&theme=radical" alt="DuyetBKU's GitHub stats" />
+  </a>
 </p>
 
----https://github.com/DuyetBKU
+
+
 ## 👨‍💻 About Me
 
 - 🎓 Architect, software engineer & AI developer – currently researching Digital Twin models, IoT, and intelligent systems.
@@ -97,6 +105,10 @@
 | **SmartTwinBKU** | A Digital Twin system for smart buildings that integrates IoT, BIM, and real-time monitoring. | `Next.js`, `MQTT`, `Firebase`, `Autodesk Forge`, `ESP32` |
 | **Liliana AI** | A personalized AI assistant supporting natural language interaction and multi-channel integration. | `React`, `AI SDK`, `Next.js`, `OpenRouter`, `LLMs` |
 | **Architecture Design Toolkit** | Tools and scripts for intelligent architectural design using Revit and Dynamo. | `Revit API`, `Dynamo`, `Python` |
+
+## 📊 GitHub Activity
+
+[![My GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=DuyetBKU&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
