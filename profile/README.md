@@ -6,13 +6,20 @@
   This is my personal GitHub profile where I share <strong>open-source projects</strong>, <strong>technical resources</strong>, and <strong>hands-on experiences</strong> in the field.
 </p>
 
----
+---https://github.com/DuyetBKU/.github/tree/main/profile
 
 ## 👨‍💻 About Me
 
 - 🎓 Architect, software engineer & AI developer – currently researching Digital Twin models, IoT, and intelligent systems.
 - 💡 I love building beautiful, practical tools — from small utilities to full-scale smart systems.
 - 📚 My mission: To contribute to the development of Smart Building and Smart City technologies in Vietnam.
+
+## 🔧 My Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,apple,arduino,autocad,blender,cs,cpp,cloudflare,cmake,css,discord,docker,dotnet,figma,gcp,git,github,gmail,html,htmx,java,js,latex,linkedin,linux,md,materialui,matlab,neovim,nextjs,nodejs,npm,ps,powershell,pr,pycharm,py,r,raspberrypi,react,supabase,sketchup,tensorflow,twitter,ts,ubuntu,unity,visualstudio,vite,vscode,windows," />
+  </a>
+</p>
 
 ---
 
