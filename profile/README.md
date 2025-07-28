@@ -1,7 +1,5 @@
 <h2 align="center">Welcome to DuyetBKU's GitHub 🌟</h2>    
 
-
-
   <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DuyetBKU.+(o%E3%82%9C%E2%96%BD%E3%82%9C)o%E2%98%86;%E2%98%86+%EF%BD%A1%EF%BD%A1%EF%BD%A1+A+long+journey+is+just+beginning+%EF%BD%A1%EF%BD%A1%EF%BD%A1%E2%98%86+;Follow+me!!!+(%E2%89%A7%E2%88%87%E2%89%A6)%EF%BE%89)" alt="Typing SVG" />
 </p>
 
@@ -15,7 +13,7 @@ https://github.com/DuyetBKU
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DuyetBKU&show_icons=true&theme=react" alt="DuyetBKU's GitHub stats" />
 </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
   
 ---  
 
@@ -30,32 +28,32 @@ https://github.com/DuyetBKU
 <h3 align="center">🛠️ Development Tools & Languages</h3>
 <p align="center">
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/></a>
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
   <a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" /></a>
   <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" /></a>
   <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" /></a>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" /></a>
+  <a href="https://www.python.org"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="50 /></a>
   <a href="https://www.r-project.org"><img src="https://skillicons.dev/icons?i=r" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" /></a>
-  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" /></a>
+  <a href="https://isocpp.org"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" /></a>
+  <a href="https://www.java.com"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" /></a>
+  <a href="https://www.typescriptlang.org"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" /></a>
 </p>
 
 <h3 align="center">🌐 Web, Cloud & Frameworks</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://react.dev"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" /></a>
   <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
   <a href="https://htmx.org"><img src="https://skillicons.dev/icons?i=htmx" /></a>
   <a href="https://mui.com"><img src="https://skillicons.dev/icons?i=materialui" /></a>
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://www.docker.com"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" /></a>
   <a href="https://cloud.google.com"><img src="https://skillicons.dev/icons?i=gcp" /></a>
   <a href="https://www.cloudflare.com"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
   <a href="https://cmake.org"><img src="https://skillicons.dev/icons?i=cmake" /></a>
@@ -85,7 +83,7 @@ https://github.com/DuyetBKU
 <h3 align="center">🧰 Hardware, OS & Utilities</h3>
 <p align="center">
   <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" /></a>
-  <a href="https://www.raspberrypi.com"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
+  <a href="https://www.raspberrypi.com"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="50" /></a>
   <a href="https://www.apple.com"><img src="https://skillicons.dev/icons?i=apple" /></a>
   <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
   <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
@@ -138,4 +136,4 @@ https://github.com/DuyetBKU
 
 > _"I believe that knowledge should be shared — let’s learn and grow together."_  
 > <p align="right">— DuyetBKU —</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
