@@ -15,10 +15,10 @@ https://github.com/DuyetBKU
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DuyetBKU&show_icons=true&theme=react" alt="DuyetBKU's GitHub stats" />
 </p>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080"/>
+  
 ---  
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&text=&fontSize=60" alt="Capsule Render Badge" width="1080" />
 
 ## 👨‍💻 About Me
 
