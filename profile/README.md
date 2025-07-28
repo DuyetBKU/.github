@@ -96,7 +96,8 @@ https://github.com/DuyetBKU
   <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" /></a>
   <a href="https://mail.google.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://twitter.com"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="50"/></a>
+  
 </p>
 
 ---
