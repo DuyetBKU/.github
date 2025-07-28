@@ -17,7 +17,7 @@
 ## 🔧 My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,apple,arduino,autocad,blender,cs,cpp,cloudflare,cmake,css,discord,docker,dotnet,figma,gcp,git,github,gmail,html,htmx,java,js,latex,linkedin,linux,md,materialui,matlab,neovim,nextjs,nodejs,npm,ps,powershell,pr,pycharm,py,r,raspberrypi,react,supabase,sketchup,tensorflow,twitter,ts,ubuntu,unity,visualstudio,vite,vscode,windows," />
+    <img src="https://skillicons.dev/icons?i=apple,arduino,autocad,blender,cs,cpp,cloudflare,cmake,css,discord,docker,dotnet,figma,gcp,git,github,gmail,html,htmx,java,js,latex,linkedin,linux,md,materialui,matlab,neovim,nextjs,nodejs,npm,ps,powershell,pr,pycharm,py,r,raspberrypi,react,supabase,sketchup,tensorflow,twitter,ts,ubuntu,unity,visualstudio,vite,vscode,windows," />
   </a>
 </p>
 
