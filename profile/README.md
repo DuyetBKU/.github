@@ -9,14 +9,14 @@
   <br/>
   This is my personal GitHub profile where I share <strong>open-source projects</strong>, <strong>technical resources</strong>, and <strong>hands-on experiences</strong> in the field.
   <br/>
----https://github.com/DuyetBKU
+https://github.com/DuyetBKU
 </p>  
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DuyetBKU&show_icons=true&theme=react" alt="DuyetBKU's GitHub stats" />
 </p>
 
 
-
+---
 ## 👨‍💻 About Me
 
 - 🎓 Architect, software engineer & AI developer – currently researching Digital Twin models, IoT, and intelligent systems.
