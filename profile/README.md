@@ -1,6 +1,9 @@
-<h2 align="center">Welcome to DuyetBKU's GitHub 🌟</h2>
-
 <p align="center">
+</p>
+<h2 align="center">Welcome to DuyetBKU's GitHub 🌟</h2>    
+
+
+
   <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DuyetBKU.+(o%E3%82%9C%E2%96%BD%E3%82%9C)o%E2%98%86;%E2%98%86+%EF%BD%A1%EF%BD%A1%EF%BD%A1+A+long+journey+is+just+beginning+%EF%BD%A1%EF%BD%A1%EF%BD%A1%E2%98%86+;Follow+me!!!+(%E2%89%A7%E2%88%87%E2%89%A6)%EF%BE%89)" alt="Typing SVG" />
 </p>
 
@@ -15,8 +18,10 @@ https://github.com/DuyetBKU
     <img src="https://github-readme-stats.vercel.app/api?username=DuyetBKU&show_icons=true&theme=react" alt="DuyetBKU's GitHub stats" />
 </p>
 
+---  
 
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&text=&fontSize=60" alt="Capsule Render Badge" width="1080" />
+
 ## 👨‍💻 About Me
 
 - 🎓 Architect, software engineer & AI developer – currently researching Digital Twin models, IoT, and intelligent systems.
@@ -135,3 +140,4 @@ https://github.com/DuyetBKU
 
 > _"I believe that knowledge should be shared — let’s learn and grow together."_  
 > <p align="right">— DuyetBKU —</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080"/>
