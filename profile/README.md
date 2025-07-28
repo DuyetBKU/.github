@@ -108,7 +108,7 @@
 
 ## 📊 GitHub Activity
 
-[![My GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=DuyetBKU&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![My GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=DuyetBKU&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
