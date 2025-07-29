@@ -148,12 +148,13 @@ https://github.com/DuyetBKU
 
 
 
-## <img src="https://i.postimg.cc/1zM6x2gf/Blue-Heart.gif" width="30"/> Chill Corner
+## <img src="https://i.postimg.cc/GtYJDLq2/Shark.gif" width="30"/> Chill Corner
 <p align="center">
-  <span> o(*≧▽≦)ツ┏━┓ </span>
+  <span> o(*≧▽≦)ツ┏━┓827736478 </span>
   </br> 
   <img src="https://i.postimg.cc/6pnv9bTr/68891d505780b143946109.gif" width="500"/>
   <img src="https://i.postimg.cc/4x1sXpvL/Pixel-Art-Wallpaper-GIF.gif" width="500"/> 
+  <img src="https://i.postimg.cc/Ss5jhcL2/68892bca418d2731872227.gif" width="180"/> 
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
