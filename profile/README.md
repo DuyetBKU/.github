@@ -2,7 +2,7 @@
   Welcome to DuyetBKU's GitHub 🌟 
 </h2>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU.github" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU.github&left_color=grey&right_color=gold&left_text=visits" />
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/wBL36Jyn/ITsme.gif" width="200" alt="ME!" />
@@ -27,17 +27,17 @@ https://github.com/DuyetBKU
 ---  
 
 
-## <img src="https://i.postimg.cc/jSYcXV0f/Business-Analysis.gif" width="30" role="presentation"/> About Me
+## <img src="https://i.postimg.cc/SQ58WmGm/Male-Avatar.gif" width="30" role="presentation"/> About Me
 
 - <img src="https://i.postimg.cc/sxDxyghW/Graduation-Cap.gif" width="20"/> Architect, software engineer & AI developer – currently researching Digital Twin models, IoT, and intelligent systems.
 - <img src="https://i.postimg.cc/4NRZzddQ/Light-Bulb.gif" width="20"/> I love building beautiful, practical tools — from small utilities to full-scale smart systems.
 - <img src="https://i.postimg.cc/wB8hzDTs/Note.gif" width="20"/> My mission: To contribute to the development of Smart Building and Smart City technologies in Vietnam.
 
 ## <img src="https://i.postimg.cc/rFQDgbHm/Gears.gif)" width="30"/> My Core Skills
-<h3 align="center">🛠️ Development Tools & Languages</h3>
+<h3 align="center"><img src="https://i.postimg.cc/jq9fbMpv/Layer.gif" width="50"/> Development Tools & Languages</h3>
 <p align="center">
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://github.com"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/></a>
+  <a href="https://github.com"><img src="https://i.postimg.cc/P5Tjcj5D/Github.gif" width="50"/></a>
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" /></a>
   <a href="https://visualstudio.microsoft.com"><img src="https://skillicons.dev/icons?i=visualstudio" /></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
@@ -52,8 +52,7 @@ https://github.com/DuyetBKU
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" /></a>
   <a href="https://www.typescriptlang.org"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" /></a>
 </p>
-
-<h3 align="center">🌐 Web, Cloud & Frameworks</h3>
+<h3 align="center"><img src="https://i.postimg.cc/DfP2Q6h5/Clock-Loading.gif" width="50"/> Web, Cloud & Frameworks</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
@@ -70,7 +69,7 @@ https://github.com/DuyetBKU
   <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" /></a>
 </p>
 
-<h3 align="center">🎨 Design, Architecture & 3D</h3>
+<h3 align="center"><img src="https://i.postimg.cc/7YC9kGf8/Magnetic-Board.gif" width="50"/> Design, Architecture & 3D</h3>
 <p align="center">
   <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
@@ -81,7 +80,7 @@ https://github.com/DuyetBKU
   <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" /></a>
 </p>
 
-<h3 align="center">📊 Data, AI & Writing</h3>
+<h3 align="center"><img src="https://i.postimg.cc/76sRKFQg/Cloud-Download.gif Data" width="50"/>AI & Writing</h3>
 <p align="center">
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" /></a>
@@ -89,7 +88,7 @@ https://github.com/DuyetBKU
   <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=md" /></a>
 </p>
 
-<h3 align="center">🧰 Hardware, OS & Utilities</h3>
+<h3 align="center"><img src="https://i.postimg.cc/L4zS9X77/Cpu.gif" width="50"/> Hardware, OS & Utilities</h3>
 <p align="center">
   <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" /></a>
   <a href="https://www.raspberrypi.com"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="50" /></a>
@@ -100,14 +99,6 @@ https://github.com/DuyetBKU
   <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" /></a>
 </p>
 
-<h3 align="center">📡 Communication & Social</h3>
-<p align="center">
-  <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://mail.google.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="50"/></a>
-  
-</p>
 
 ---
 
@@ -141,10 +132,11 @@ https://github.com/DuyetBKU
 - <img src="https://i.postimg.cc/y6Rmxftr/Gmail.gif" width="20"/> Email: `duyet.cao1203@hcmut.edu.vn`
 - <img src="https://i.postimg.cc/tCw76y63/Globe-Showing-Europe-Africa.gif" width="20"/> Website: [architect.quarasal.com](https://architect.quarasal.com) (Ctrl + Click to open in new tab)
 - <img src="https://i.postimg.cc/15B1xKmf/Chat.gif" width="20"/> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
+- <img src="https://i.postimg.cc/pdF8G4Vg/Dollar-Donation.gif" width="20"/> Help me launch more cool stuff — [Donate a coffee](https://buymeacoffee.com/duyetbku) 
 
 ---
 
 > _"I believe that knowledge should be shared — let’s learn and grow together."_  
-> <p align="right">— DuyetBKU —</p>
+> <p align="right">— DuyetBKU 🌟 —</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
