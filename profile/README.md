@@ -114,12 +114,14 @@ https://github.com/DuyetBKU
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuyetBKU&theme=react-dark" alt="DuyetBKU's GitHub Activity" />
 </p>
-## 🐍 Contribution Snake
+
+
+## 🐍 My Contributions Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuyetBKU/Eat-Eat-Eat/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuyetBKU/Eat-Eat-Eat/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DuyetBKU/Eat-Eat-Eat/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuyetBKU/.github/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuyetBKU/.github/output/github-snake.svg">
+  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/DuyetBKU/.github/output/github-snake.svg" style="display:block; margin:auto; width:100%;" />
 </picture>
 
 
