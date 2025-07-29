@@ -34,7 +34,7 @@ https://github.com/DuyetBKU
 - <img src="https://i.postimg.cc/wB8hzDTs/Note.gif" width="20"/> My mission: To contribute to the development of Smart Building and Smart City technologies in Vietnam.
 
 ## <img src="https://i.postimg.cc/rFQDgbHm/Gears.gif)" width="30"/> My Core Skills
-<h3 align="center"><img src="https://i.postimg.cc/jq9fbMpv/Layer.gif" width="50"/> Development Tools & Languages</h3>
+<h3 align="center"><img src="https://i.postimg.cc/jq9fbMpv/Layer.gif" width="24"/> Development Tools & Languages</h3>
 <p align="center">
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://github.com"><img src="https://i.postimg.cc/P5Tjcj5D/Github.gif" width="50"/></a>
@@ -52,7 +52,7 @@ https://github.com/DuyetBKU
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" /></a>
   <a href="https://www.typescriptlang.org"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" /></a>
 </p>
-<h3 align="center"><img src="https://i.postimg.cc/DfP2Q6h5/Clock-Loading.gif" width="50"/> Web, Cloud & Frameworks</h3>
+<h3 align="center"><img src="https://i.postimg.cc/DfP2Q6h5/Clock-Loading.gif" width="24"/> Web, Cloud & Frameworks</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
@@ -69,7 +69,7 @@ https://github.com/DuyetBKU
   <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" /></a>
 </p>
 
-<h3 align="center"><img src="https://i.postimg.cc/7YC9kGf8/Magnetic-Board.gif" width="50"/> Design, Architecture & 3D</h3>
+<h3 align="center"><img src="https://i.postimg.cc/7YC9kGf8/Magnetic-Board.gif" width="24"/> Design, Architecture & 3D</h3>
 <p align="center">
   <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
@@ -80,7 +80,7 @@ https://github.com/DuyetBKU
   <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" /></a>
 </p>
 
-<h3 align="center"><img src="https://i.postimg.cc/76sRKFQg/Cloud-Download.gif Data" width="50"/>AI & Writing</h3>
+<h3 align="center"><img src="https://i.postimg.cc/76sRKFQg/Cloud-Download.gif Data" width="24"/>AI & Writing</h3>
 <p align="center">
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" /></a>
@@ -88,7 +88,7 @@ https://github.com/DuyetBKU
   <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=md" /></a>
 </p>
 
-<h3 align="center"><img src="https://i.postimg.cc/L4zS9X77/Cpu.gif" width="50"/> Hardware, OS & Utilities</h3>
+<h3 align="center"><img src="https://i.postimg.cc/L4zS9X77/Cpu.gif" width="24"/> Hardware, OS & Utilities</h3>
 <p align="center">
   <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" /></a>
   <a href="https://www.raspberrypi.com"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="50" /></a>
