@@ -146,12 +146,19 @@ https://github.com/DuyetBKU
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
-> _"I believe that knowledge should be shared — let’s learn and grow together."_  
-> <p align="right">— DuyetBKU <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="20" /> —</p>
 
+
+## <img src="https://i.postimg.cc/1zM6x2gf/Blue-Heart.gif" width="30"/> Chill Corner
 <p align="center">
-  <img src="https://i.postimg.cc/Sx6hQc42/Dance-Dancing-GIF.gif" alt="" width="500" />
+  <span> o(*≧▽≦)ツ┏━┓ </span>
+  </br> 
+  <img src="https://i.postimg.cc/6pnv9bTr/68891d505780b143946109.gif" width="500"/>
+  <img src="https://i.postimg.cc/4x1sXpvL/Pixel-Art-Wallpaper-GIF.gif" width="500"/> 
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
+
+> _"I believe that knowledge should be shared — let’s learn and grow together."_  
+> <p align="right">— DuyetBKU <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="20" /> —</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
 
