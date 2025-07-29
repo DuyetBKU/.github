@@ -24,10 +24,9 @@ https://github.com/DuyetBKU
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
   
----  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />  
 
-
-## <img src="https://i.postimg.cc/SQ58WmGm/Male-Avatar.gif" width="30" role="presentation"/> About Me
+## <img src="https://i.postimg.cc/SQ58WmGm/Male-Avatar.gif" width="30" role="presentation"/> About Me 
 
 - <img src="https://i.postimg.cc/sxDxyghW/Graduation-Cap.gif" width="20"/> Architect, software engineer & AI developer – currently researching Digital Twin models, IoT, and intelligent systems.
 - <img src="https://i.postimg.cc/4NRZzddQ/Light-Bulb.gif" width="20"/> I love building beautiful, practical tools — from small utilities to full-scale smart systems.
@@ -100,7 +99,7 @@ https://github.com/DuyetBKU
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
 ## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="30"/> Featured Projects
 
@@ -115,8 +114,16 @@ https://github.com/DuyetBKU
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuyetBKU&theme=react-dark" alt="DuyetBKU's GitHub Activity" />
 </p>
+## 🐍 Contribution Snake
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuyetBKU/Eat-Eat-Eat/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DuyetBKU/Eat-Eat-Eat/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DuyetBKU/Eat-Eat-Eat/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
 ## <img src="https://i.postimg.cc/027SfbCk/File-Searching.gif" width="30"/> What You'll Find Here
 
@@ -125,7 +132,7 @@ https://github.com/DuyetBKU
 - <img src="https://i.postimg.cc/dt93WXLX/Filter.gif" width="20"/> Self-developed or contributed dev tools and extensions.
 - <img src="https://i.postimg.cc/J4FvW7DB/share.gif" width="20"/> Community resources such as `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `SECURITY.md`.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
 ## <img src="https://i.postimg.cc/1zM6x2gf/Blue-Heart.gif" width="30"/> Connect with Me
 
@@ -134,7 +141,7 @@ https://github.com/DuyetBKU
 - <img src="https://i.postimg.cc/15B1xKmf/Chat.gif" width="20"/> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
 - <img src="https://i.postimg.cc/pdF8G4Vg/Dollar-Donation.gif" width="20"/> Help me launch more cool stuff — [Donate a coffee](https://buymeacoffee.com/duyetbku) 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
 > _"I believe that knowledge should be shared — let’s learn and grow together."_  
 > <p align="right">— DuyetBKU <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="20" /> —</p>
