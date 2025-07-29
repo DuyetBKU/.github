@@ -1,5 +1,5 @@
 <h2 align="center">
-  Welcome to DuyetBKU's GitHub 🌟 
+  Welcome to DuyetBKU's GitHub <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="24" />
 </h2>
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU.github&left_color=grey&right_color=gold&left_text=visits" />
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  👋 Hi there! I'm <strong>DuyetBKU</strong> – an architect, software developer, and tech researcher who’s passionate about creativity, innovation, and open sharing.  
+  <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" width="24" />  Hi there! I'm <strong>DuyetBKU</strong> – an architect, software developer, and tech researcher who’s passionate about creativity, innovation, and open sharing.  
   <br/>
   This is my personal GitHub profile where I share <strong>open-source projects</strong>, <strong>technical resources</strong>, and <strong>hands-on experiences</strong> in the field.
   <br/>
@@ -129,7 +129,7 @@ https://github.com/DuyetBKU
 
 ## <img src="https://i.postimg.cc/1zM6x2gf/Blue-Heart.gif" width="30"/> Connect with Me
 
-- <img src="https://i.postimg.cc/y6Rmxftr/Gmail.gif" width="20"/> Email: `duyet.cao1203@hcmut.edu.vn`
+- <img src="https://i.postimg.cc/y6Rmxftr/Gmail.gif" width="20"/> Email: `duyet.cao1203@hcmut.edu.vn` <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="20" />
 - <img src="https://i.postimg.cc/tCw76y63/Globe-Showing-Europe-Africa.gif" width="20"/> Website: [architect.quarasal.com](https://architect.quarasal.com) (Ctrl + Click to open in new tab)
 - <img src="https://i.postimg.cc/15B1xKmf/Chat.gif" width="20"/> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
 - <img src="https://i.postimg.cc/pdF8G4Vg/Dollar-Donation.gif" width="20"/> Help me launch more cool stuff — [Donate a coffee](https://buymeacoffee.com/duyetbku) 
@@ -137,6 +137,6 @@ https://github.com/DuyetBKU
 ---
 
 > _"I believe that knowledge should be shared — let’s learn and grow together."_  
-> <p align="right">— DuyetBKU 🌟 —</p>
+> <p align="right">— DuyetBKU <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="20" /> —</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
