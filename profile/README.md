@@ -1,10 +1,13 @@
-<h2 align="center">Welcome to DuyetBKU's GitHub 🌟</h2>  
+<h2 align="center">
+  Welcome to DuyetBKU's GitHub 🌟 
+</h2>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU.github" />
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/vm2PwbZN/Back-to-school.gif" width="200" alt="Back to school animation" />
+  <img src="https://i.postimg.cc/wBL36Jyn/ITsme.gif" width="200" alt="ME!" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=61DAFB&background=&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DuyetBKU.+(o%E3%82%9C%E2%96%BD%E3%82%9C)o%E2%98%86;%E2%98%86+%EF%BD%A1%EF%BD%A1%EF%BD%A1+A+long+journey+is+just+beginning+%EF%BD%A1%EF%BD%A1%EF%BD%A1%E2%98%86+;Follow+me!!!+(%E2%89%A7%E2%88%87%E2%89%A6)%EF%BE%89)" alt="Typing SVG" />
 </p>
@@ -24,13 +27,13 @@ https://github.com/DuyetBKU
 ---  
 
 
-## 👨‍💻 About Me
+## <img src="https://i.postimg.cc/jSYcXV0f/Business-Analysis.gif" width="30" role="presentation"/> About Me
 
-- 🎓 Architect, software engineer & AI developer – currently researching Digital Twin models, IoT, and intelligent systems.
-- 💡 I love building beautiful, practical tools — from small utilities to full-scale smart systems.
-- 📚 My mission: To contribute to the development of Smart Building and Smart City technologies in Vietnam.
+- <img src="https://i.postimg.cc/sxDxyghW/Graduation-Cap.gif" width="20"/> Architect, software engineer & AI developer – currently researching Digital Twin models, IoT, and intelligent systems.
+- <img src="https://i.postimg.cc/4NRZzddQ/Light-Bulb.gif" width="20"/> I love building beautiful, practical tools — from small utilities to full-scale smart systems.
+- <img src="https://i.postimg.cc/wB8hzDTs/Note.gif" width="20"/> My mission: To contribute to the development of Smart Building and Smart City technologies in Vietnam.
 
-## 🔧 My Core Skills
+## <img src="https://i.postimg.cc/rFQDgbHm/Gears.gif)" width="30"/> My Core Skills
 <h3 align="center">🛠️ Development Tools & Languages</h3>
 <p align="center">
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" /></a>
@@ -108,7 +111,7 @@ https://github.com/DuyetBKU
 
 ---
 
-## 📂 Featured Projects
+## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="30"/> Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
@@ -116,7 +119,7 @@ https://github.com/DuyetBKU
 | **Liliana AI** | A personalized AI assistant supporting natural language interaction and multi-channel integration. | `React`, `AI SDK`, `Next.js`, `OpenRouter`, `LLMs` |
 | **Architecture Design Toolkit** | Tools and scripts for intelligent architectural design using Revit and Dynamo. | `Revit API`, `Dynamo`, `Python` |
 
-## 📊 GitHub Activity
+## <img src="https://i.postimg.cc/vH2J0Z8K/Github.gif" width="30"/> GitHub Activity
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuyetBKU&theme=react-dark" alt="DuyetBKU's GitHub Activity" />
@@ -124,20 +127,20 @@ https://github.com/DuyetBKU
 
 ---
 
-## 📚 What You'll Find Here
+## <img src="https://i.postimg.cc/027SfbCk/File-Searching.gif" width="30"/> What You'll Find Here
 
-- 💾 Source code from both academic and real-world projects.
-- 🧠 Articles and insights about AI, IoT, Revit, GitHub Actions, React, Tailwind CSS, and more.
-- 🛠️ Self-developed or contributed dev tools and extensions.
-- 🤝 Community resources such as `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `SECURITY.md`.
+- <img src="https://i.postimg.cc/cH1d2128/Bookmark.gif" width="20"/> Source code from both academic and real-world projects.
+- <img src="https://i.postimg.cc/9QF5cg1v/Ai-Service.gif" width="20"/> Articles and insights about AI, IoT, Revit, GitHub Actions, React, Tailwind CSS, and more.
+- <img src="https://i.postimg.cc/dt93WXLX/Filter.gif" width="20"/> Self-developed or contributed dev tools and extensions.
+- <img src="https://i.postimg.cc/J4FvW7DB/share.gif" width="20"/> Community resources such as `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `SECURITY.md`.
 
 ---
 
-## 💌 Connect with Me
+## <img src="https://i.postimg.cc/1zM6x2gf/Blue-Heart.gif" width="30"/> Connect with Me
 
-- 📧 Email: `duyet.cao1203@hcmut.edu.vn`
-- 🌐 Website: [architect.quarasal.com](https://architect.quarasal.com) (Ctrl + Click to open in new tab)
-- 💬 Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
+- <img src="https://i.postimg.cc/y6Rmxftr/Gmail.gif" width="20"/> Email: `duyet.cao1203@hcmut.edu.vn`
+- <img src="https://i.postimg.cc/tCw76y63/Globe-Showing-Europe-Africa.gif" width="20"/> Website: [architect.quarasal.com](https://architect.quarasal.com) (Ctrl + Click to open in new tab)
+- <img src="https://i.postimg.cc/15B1xKmf/Chat.gif" width="20"/> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
 
 ---
 
