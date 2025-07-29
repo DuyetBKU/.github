@@ -6,7 +6,7 @@
   <img src="https://i.postimg.cc/vm2PwbZN/Back-to-school.gif" width="200" alt="Back to school animation" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=61DAFB&background=0D1117&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DuyetBKU.+(o%E3%82%9C%E2%96%BD%E3%82%9C)o%E2%98%86;%E2%98%86+%EF%BD%A1%EF%BD%A1%EF%BD%A1+A+long+journey+is+just+beginning+%EF%BD%A1%EF%BD%A1%EF%BD%A1%E2%98%86+;Follow+me!!!+(%E2%89%A7%E2%88%87%E2%89%A6)%EF%BE%89)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=61DAFB&background=&center=true&vCenter=true&width=1080&height=120&lines=Hi!+I'm+DuyetBKU.+(o%E3%82%9C%E2%96%BD%E3%82%9C)o%E2%98%86;%E2%98%86+%EF%BD%A1%EF%BD%A1%EF%BD%A1+A+long+journey+is+just+beginning+%EF%BD%A1%EF%BD%A1%EF%BD%A1%E2%98%86+;Follow+me!!!+(%E2%89%A7%E2%88%87%E2%89%A6)%EF%BE%89)" alt="Typing SVG" />
 </p>
 
 <p align="center">
