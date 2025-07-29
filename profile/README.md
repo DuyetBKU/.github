@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 <h2 align="center">
   Welcome to DuyetBKU's GitHub <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="24" />
 </h2>
@@ -31,6 +32,8 @@ https://github.com/DuyetBKU
 - <img src="https://i.postimg.cc/sxDxyghW/Graduation-Cap.gif" width="20"/> Architect, software engineer & AI developer – currently researching Digital Twin models, IoT, and intelligent systems.
 - <img src="https://i.postimg.cc/4NRZzddQ/Light-Bulb.gif" width="20"/> I love building beautiful, practical tools — from small utilities to full-scale smart systems.
 - <img src="https://i.postimg.cc/wB8hzDTs/Note.gif" width="20"/> My mission: To contribute to the development of Smart Building and Smart City technologies in Vietnam.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
+
 
 ## <img src="https://i.postimg.cc/rFQDgbHm/Gears.gif)" width="30"/> My Core Skills
 <h3 align="center"><img src="https://i.postimg.cc/jq9fbMpv/Layer.gif" width="24"/> Development Tools & Languages</h3>
@@ -108,6 +111,7 @@ https://github.com/DuyetBKU
 | **SmartTwinBKU** | A Digital Twin system for smart buildings that integrates IoT, BIM, and real-time monitoring. | `Next.js`, `MQTT`, `Firebase`, `Autodesk Forge`, `ESP32` |
 | **Liliana AI** | A personalized AI assistant supporting natural language interaction and multi-channel integration. | `React`, `AI SDK`, `Next.js`, `OpenRouter`, `LLMs` |
 | **Architecture Design Toolkit** | Tools and scripts for intelligent architectural design using Revit and Dynamo. | `Revit API`, `Dynamo`, `Python` |
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
 ## <img src="https://i.postimg.cc/vH2J0Z8K/Github.gif" width="30"/> GitHub Activity
 
