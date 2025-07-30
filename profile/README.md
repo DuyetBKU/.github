@@ -176,7 +176,7 @@ https://github.com/DuyetBKU
   <a href="https://zennomi.fandom.com/wiki/Kyoto_Tashuzoku_Anzen_Kikou"><img src="https://i.postimg.cc/Y0zBNHht/Kyoto-Tashuzoku-Anzen-Kikou.png" width="100"/></a>
   <a href="https://en.wikipedia.org/wiki/Mushoku_Tensei"><img src="https://i.postimg.cc/rwb3rmQS/Mushoku-Tensei.png" width="100"/></a>
   <a href="https://en.wikipedia.org/wiki/One_Piece"><img src="https://i.postimg.cc/kG1fP1Hx/onepiece.png" width="100"/></a>
-  <a href="https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad"><img src="https://i.postimg.cc/MTzDMJ27/richdad.png" width="100"/></a>
+  <a href="https://archive.org/details/rich-dad-poor-dad-by-robert-t.-kiyosaki"><img src="https://i.postimg.cc/MTzDMJ27/richdad.png" width="100"/></a>
   <a href="https://versatile-mage.fandom.com/"><img src="https://i.postimg.cc/hPQ9GtQF/toanchucphapsu.jpg" width="100"/></a>
   <a href="https://www.1pezeshk.com/wp-content/uploads/2019/07/Sapiens-A-Brief-History-of-Humankind.pdf"><img src="https://i.postimg.cc/jSrJdQrN/sapiens.png" width="100"/></a>
 </p>
