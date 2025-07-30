@@ -137,7 +137,7 @@ https://github.com/DuyetBKU
 
 ## <img src="https://i.postimg.cc/027SfbCk/File-Searching.gif" width="30"/> What You'll Find Here
 
-- <img src="https://i.postimg.cc/cH1d2128/Bookmark.gif" width="20"/> Source code from both academic and real-world projects.
+- <img src="https://i.postimg.cc/Fz9ztmdB/Book.gif" width="20"/> Source code from both academic and real-world projects.
 - <img src="https://i.postimg.cc/9QF5cg1v/Ai-Service.gif" width="20"/> Articles and insights about AI, IoT, Revit, GitHub Actions, React, Tailwind CSS, and more.
 - <img src="https://i.postimg.cc/dt93WXLX/Filter.gif" width="20"/> Self-developed or contributed dev tools and extensions.
 - <img src="https://i.postimg.cc/J4FvW7DB/share.gif" width="20"/> Community resources such as `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, and `SECURITY.md`.
@@ -158,17 +158,29 @@ https://github.com/DuyetBKU
 
 ## <img src="https://i.postimg.cc/GtYJDLq2/Shark.gif" width="30"/> Chill Corner
 
-<p align="center">
-  <span> o(*≧▽≦)ツ┏━┓827736478 </span>
-</p>
+- <img src="https://i.postimg.cc/6qvX1mzm/Zoom.gif" width="20"/> o(*≧▽≦)ツ┏━┓ 827736478
+
 
 <p align="center">
     <img src="https://i.postimg.cc/6pnv9bTr/68891d505780b143946109.gif" width="420"/>
     <img src="https://i.postimg.cc/4x1sXpvL/Pixel-Art-Wallpaper-GIF.gif" width="420"/>
-</p>     
-<p align="center">
-  <img src="https://i.postimg.cc/Ss5jhcL2/68892bca418d2731872227.gif" width="180"/>
+    <img src="https://i.postimg.cc/Ss5jhcL2/68892bca418d2731872227.gif" width="180"/>
+    <img src="https://i.postimg.cc/bwW1760j/m10-cr7.gif" width="180"/>
 </p>
+
+- <img src="https://i.postimg.cc/cH1d2128/Bookmark.gif" width="20"/> Read book with me?
+<p align="center">
+  <a href="https://byarchlens.com/wp-content/uploads/2020/11/Neufert-4th-edition.pdf"><img src="https://i.postimg.cc/yYsRXykP/Architects-Data-Neufert.png" width="100"/></a>
+  <a href="https://en.wikipedia.org/wiki/Conan_the_Barbarian"><img src="https://i.postimg.cc/G232TqM8/conan.png" width="100"/></a>
+  <a href="https://archive.org/details/the-elements-by-theodore-gray-and-nick-mann"><img src="https://i.postimg.cc/cHKJcrS0/elements.png" width="100"/></a>
+  <a href="https://zennomi.fandom.com/wiki/Kyoto_Tashuzoku_Anzen_Kikou"><img src="https://i.postimg.cc/Y0zBNHht/Kyoto-Tashuzoku-Anzen-Kikou.png" width="100"/></a>
+  <a href="https://en.wikipedia.org/wiki/Mushoku_Tensei"><img src="https://i.postimg.cc/rwb3rmQS/Mushoku-Tensei.png" width="100"/></a>
+  <a href="https://en.wikipedia.org/wiki/One_Piece"><img src="https://i.postimg.cc/kG1fP1Hx/onepiece.png" width="100"/></a>
+  <a href="https://en.wikipedia.org/wiki/Rich_Dad_Poor_Dad"><img src="https://i.postimg.cc/MTzDMJ27/richdad.png" width="100"/></a>
+  <a href="https://versatile-mage.fandom.com/"><img src="https://i.postimg.cc/hPQ9GtQF/toanchucphapsu.jpg" width="100"/></a>
+  <a href="https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind"><img src="https://i.postimg.cc/jSrJdQrN/sapiens.png" width="100"/></a>
+</p>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
