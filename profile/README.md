@@ -150,9 +150,7 @@ https://github.com/DuyetBKU
 - <img src="https://i.postimg.cc/y6Rmxftr/Gmail.gif" width="20"/> Email: `duyet.cao1203@hcmut.edu.vn` <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="20" />
 - <img src="https://i.postimg.cc/tCw76y63/Globe-Showing-Europe-Africa.gif" width="20"/> Website: [architect.quarasal.com](https://architect.quarasal.com) (Ctrl + Click to open in new tab)
 - <img src="https://i.postimg.cc/15B1xKmf/Chat.gif" width="20"/> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
-- <img src="https://i.postimg.cc/pdF8G4Vg/Dollar-Donation.gif" width="20"/> Help me launch more cool stuff — [Donate to the green digital cat below 👇 Lol
-
-](https://buymeacoffee.com/duyetbku) 
+- <img src="https://i.postimg.cc/pdF8G4Vg/Dollar-Donation.gif" width="20"/> Help me launch more cool stuff — [Donate to the green digital cat below 👇 Lol](https://buymeacoffee.com/duyetbku) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
