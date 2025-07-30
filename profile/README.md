@@ -171,7 +171,7 @@ https://github.com/DuyetBKU
 - <img src="https://i.postimg.cc/cH1d2128/Bookmark.gif" width="20"/> Read book with me?
 <p align="center">
   <a href="https://byarchlens.com/wp-content/uploads/2020/11/Neufert-4th-edition.pdf"><img src="https://i.postimg.cc/yYsRXykP/Architects-Data-Neufert.png" width="100"/></a>
-  <a href="https://en.wikipedia.org/wiki/Conan_the_Barbarian"><img src="https://i.postimg.cc/G232TqM8/conan.png" width="100"/></a>
+  <a href="https://vi.m.wikipedia.org/wiki/Th%C3%A1m_t%E1%BB%AD_l%E1%BB%ABng_danh_Conan?utm_source=chatgpt.com"><img src="https://i.postimg.cc/G232TqM8/conan.png" width="100"/></a>
   <a href="https://archive.org/details/the-elements-by-theodore-gray-and-nick-mann"><img src="https://i.postimg.cc/cHKJcrS0/elements.png" width="100"/></a>
   <a href="https://zennomi.fandom.com/wiki/Kyoto_Tashuzoku_Anzen_Kikou"><img src="https://i.postimg.cc/Y0zBNHht/Kyoto-Tashuzoku-Anzen-Kikou.png" width="100"/></a>
   <a href="https://en.wikipedia.org/wiki/Mushoku_Tensei"><img src="https://i.postimg.cc/rwb3rmQS/Mushoku-Tensei.png" width="100"/></a>
