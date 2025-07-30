@@ -76,10 +76,25 @@ https://github.com/DuyetBKU
   <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" /></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps" /></a>
   <a href="https://www.adobe.com/products/premiere.html"><img src="https://skillicons.dev/icons?i=pr" /></a>
-  <a href="https://www.autodesk.com/products/autocad/"><img src="https://skillicons.dev/icons?i=autocad" /></a>
+  <a href="https://www.autodesk.com/products/autocad/"><img src="https://i.postimg.cc/N0XLkLm1/cad.png" width="50" /></a>
+  <a href="https://www.autodesk.com/products/revit/"><img src="https://i.postimg.cc/2ybt1pP8/revit.png" width="50" /></a>
+  <a href="https://www.autodesk.com/products/3ds-max/"><img src="https://i.postimg.cc/ZYG7wMGp/3dsmax.png" width="50" /></a>
+  <a href="https://www.autodesk.com/products/civil-3d/"><img src="https://i.postimg.cc/Jn1mHhq7/civil.png" width="50" /></a>
   <a href="https://www.sketchup.com"><img src="https://skillicons.dev/icons?i=sketchup" /></a>
   <a href="https://www.blender.org"><img src="https://skillicons.dev/icons?i=blender" /></a>
   <a href="https://unity.com"><img src="https://skillicons.dev/icons?i=unity" /></a>
+</p>
+
+<h3 align="center"><img src="https://i.postimg.cc/L4zS9X77/Cpu.gif" width="24"/> Hardware, OS & Utilities</h3>
+<p align="center">
+  <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" /></a>
+  <a href="https://www.raspberrypi.com"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="50" /></a>
+  <a href="https://ultimaker.com"><img src="https://i.postimg.cc/SN5M6BHb/cura.png" width="50" /></a>
+  <a href="https://www.apple.com"><img src="https://skillicons.dev/icons?i=apple" /></a>
+  <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
+  <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://i.postimg.cc/Dzg9FHZN/Windows.gif" width="50"/></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" /></a>
 </p>
 
 <h3 align="center"><img src="https://i.postimg.cc/76sRKFQg/Cloud-Download.gif Data" width="24"/>AI & Writing</h3>
@@ -89,18 +104,6 @@ https://github.com/DuyetBKU
   <a href="https://www.latex-project.org"><img src="https://skillicons.dev/icons?i=latex" /></a>
   <a href="https://www.markdownguide.org"><img src="https://skillicons.dev/icons?i=md" /></a>
 </p>
-
-<h3 align="center"><img src="https://i.postimg.cc/L4zS9X77/Cpu.gif" width="24"/> Hardware, OS & Utilities</h3>
-<p align="center">
-  <a href="https://www.arduino.cc"><img src="https://skillicons.dev/icons?i=arduino" /></a>
-  <a href="https://www.raspberrypi.com"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="50" /></a>
-  <a href="https://www.apple.com"><img src="https://skillicons.dev/icons?i=apple" /></a>
-  <a href="https://ubuntu.com"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
-  <a href="https://www.kernel.org"><img src="https://skillicons.dev/icons?i=linux" /></a>
-  <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" /></a>
-  <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://skillicons.dev/icons?i=powershell" /></a>
-</p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
