@@ -164,8 +164,10 @@ https://github.com/DuyetBKU
 <p align="center">
     <img src="https://i.postimg.cc/6pnv9bTr/68891d505780b143946109.gif" width="420"/>
     <img src="https://i.postimg.cc/4x1sXpvL/Pixel-Art-Wallpaper-GIF.gif" width="420"/>
-    <img src="https://i.postimg.cc/Ss5jhcL2/68892bca418d2731872227.gif" width="180"/>
-    <img src="https://i.postimg.cc/bwW1760j/m10-cr7.gif" width="180"/>
+</p></br>
+<p align="center">
+    <img src="https://i.postimg.cc/Ss5jhcL2/68892bca418d2731872227.gif" width="200"/>
+    <img src="https://i.postimg.cc/bwW1760j/m10-cr7.gif" width="200"/>
 </p>
 
 - <img src="https://i.postimg.cc/cH1d2128/Bookmark.gif" width="20"/> Read book with me?
