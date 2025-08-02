@@ -2,6 +2,8 @@
 <h2 align="center">
   Welcome to DuyetBKU's GitHub <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="24" />
 </h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
+
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU.github&left_color=grey&right_color=gold&left_text=visits" />
 </p>
