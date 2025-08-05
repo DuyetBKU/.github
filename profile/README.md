@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07"></video>
+  https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07
 </p>
 
 </details>
