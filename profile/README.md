@@ -7,6 +7,22 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU.github&left_color=grey&right_color=gold&left_text=visits" />
 </p>
+<details>
+<summary> <img src="https://i.postimg.cc/FK4bzz2M/Musical-Notes.gif" width="20" /> &nbsp; Hear music with me at here</summary>
+
+> To load video, click this [link](https://drive.google.com/file/d/1P-5yexHCT27wIQZL3F33m8OUS0aLXtSE/view?usp=sharing) with `.mp4` support.
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07"></video>
+</p>
+
+</details>
+
+
+
+</details>
+
+
 <p align="center">
   <img src="https://i.postimg.cc/wBL36Jyn/ITsme.gif" width="200" alt="ME!" />
 </p>
