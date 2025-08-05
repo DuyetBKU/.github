@@ -22,7 +22,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07" target="_blank">Камин - Emin & Jony </a>
+    <a href="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07" target="_blank">Камин - Emin & Jony</a> 
     <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
   </p>
 
