@@ -171,7 +171,7 @@ https://github.com/DuyetBKU
 ## <img src="https://i.postimg.cc/1zM6x2gf/Blue-Heart.gif" width="30"/> Connect with Me
 
 - <img src="https://i.postimg.cc/y6Rmxftr/Gmail.gif" width="20"/> Email: `duyet.cao1203@hcmut.edu.vn` <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="20" />
-- <img src="https://i.postimg.cc/tCw76y63/Globe-Showing-Europe-Africa.gif" width="20"/> Website: [architect.quarasal.com](https://architect.quarasal.com) (Ctrl + Click to open in new tab)
+- <img src="https://i.postimg.cc/tCw76y63/Globe-Showing-Europe-Africa.gif" width="20"/> Website: [architect.quarasal.com](https://architect.quarasal.com) (**Ctrl**+**Click**  or **⌘ Command**+**Click**	to open in new tab)
 - <img src="https://i.postimg.cc/15B1xKmf/Chat.gif" width="20"/> Feel free to open an issue or pull request if you'd like to collaborate or ask questions!
 - <img src="https://i.postimg.cc/pdF8G4Vg/Dollar-Donation.gif" width="20"/> Help me launch more cool stuff — [Donate to the green digital cat below 👇 Lol](https://buymeacoffee.com/duyetbku) 
 
@@ -193,7 +193,7 @@ https://github.com/DuyetBKU
     <img src="https://i.postimg.cc/bwW1760j/m10-cr7.gif" width="200"/>
 </p>
 
-- <img src="https://i.postimg.cc/cH1d2128/Bookmark.gif" width="20"/> Read book with me?
+- <img src="https://i.postimg.cc/cH1d2128/Bookmark.gif" width="20"/> Read book with me? (**Ctrl**+**Click**  or **⌘ Command**+**Click**	to read more in new tab)
 <p align="center">
   <a href="https://byarchlens.com/wp-content/uploads/2020/11/Neufert-4th-edition.pdf"><img src="https://i.postimg.cc/yYsRXykP/Architects-Data-Neufert.png" width="100"/></a>
   <a href="https://vi.m.wikipedia.org/wiki/Th%C3%A1m_t%E1%BB%AD_l%E1%BB%ABng_danh_Conan?utm_source=chatgpt.com"><img src="https://i.postimg.cc/G232TqM8/conan.png" width="100"/></a>
