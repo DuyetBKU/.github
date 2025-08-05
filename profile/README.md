@@ -8,7 +8,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=DuyetBKU.github&left_color=grey&right_color=gold&left_text=visits" />
 </p>
 <details>
-<summary> <img src="https://i.postimg.cc/FK4bzz2M/Musical-Notes.gif" width="20" /> &nbsp; Listen to music with me HERE</summary>
+<summary> <img src="https://i.postimg.cc/FK4bzz2M/Musical-Notes.gif" width="20" /> &nbsp; Listen to music with me <strong><code>AT HERE</code></strong> </summary>
 
 > To load video, click this [link](https://drive.google.com/file/d/1P-5yexHCT27wIQZL3F33m8OUS0aLXtSE/view?usp=sharing) with `.mp4` support.
 
