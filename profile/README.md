@@ -12,9 +12,19 @@
 
 > To download video, click this [link](https://drive.google.com/file/d/1P-5yexHCT27wIQZL3F33m8OUS0aLXtSE/view?usp=sharing) with `.mp4` support.  
 > <img src="https://i.postimg.cc/Z5LrTKs7/Light-Bulb.gif" width="20"  /> Tip: Use headphones for better sound!  
-> *_Click the downward triangle icon (▾) below to collapse video section._*  
+> *_Click the downward triangle icon (▾) to collapse video section._*  
 
-  https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07
+   <p align="center">
+    <video src="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07"
+           controls
+           style="max-width: 100%; border-radius: 8px;">
+    </video>
+  </p>
+
+  <p>
+    <a href="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07" target="_blank">Камин - Emin & Jony </a>
+    <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
+  </p>
 
 </details>
 
