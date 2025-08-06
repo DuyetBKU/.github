@@ -10,21 +10,26 @@
 <details>
 <summary> <img src="https://i.postimg.cc/FK4bzz2M/Musical-Notes.gif" width="20" /> &nbsp; Listen to music with me <strong><code>AT HERE</code></strong> </summary>
 
-> To download video, click this [link](https://drive.google.com/file/d/1P-5yexHCT27wIQZL3F33m8OUS0aLXtSE/view?usp=sharing) with `.mp4` support.  
+> To download videos, click this [link](https://drive.google.com/drive/folders/1FgWsmSjKzw4EVoyfBpaTk3XK5303Y1qk?usp=sharing) with `.mp4` support.  
 > <img src="https://i.postimg.cc/Z5LrTKs7/Light-Bulb.gif" width="20"  /> Tip: Use headphones for better sound!  
 > *_Click the downward triangle icon (▾) to collapse video section._*  
 
-   <p align="center">
-    <video src="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07"
-           controls
-           style="max-width: 100%; border-radius: 8px;">
-    </video>
-  </p>
-
-  <p>
-    <a href="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07" target="_blank">Камин - Emin & Jony</a> 
-    <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
-  </p>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07" controls style="max-width: 100%; border-radius: 8px;">
+  </video>
+</p>
+<p>
+  <a href="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07">Fool For You - Kastra</a> 
+  <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
+</p>
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/ac8ef384-79f1-4d69-b5d8-e941e7d65a2e" controls style="max-width: 100%; border-radius: 8px;">
+  </video>
+</p>
+<p>
+  <a href="https://github.com/user-attachments/assets/ac8ef384-79f1-4d69-b5d8-e941e7d65a2e">Fool For You - Kastra</a> 
+  <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
+</p>
 
 </details>
 
