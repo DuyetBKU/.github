@@ -195,7 +195,7 @@ https://github.com/DuyetBKU
 
 
 <p align="center">
-    <img src="https://i.postimg.cc/6pnv9bTr/68891d505780b143946109.gif" width="420"/>
+    <img src="https://github.com/user-attachments/assets/a14b2cef-4b8e-48bc-8779-bba27fc69b9e" width="420"/>
     <img src="https://i.postimg.cc/4x1sXpvL/Pixel-Art-Wallpaper-GIF.gif" width="420"/>
     <img src="https://github.com/user-attachments/assets/87d2f662-4bb1-45f6-a473-95a55875d2b2" width="200"/>
     <img src="https://i.postimg.cc/bwW1760j/m10-cr7.gif" width="200"/>
