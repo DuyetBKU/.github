@@ -49,6 +49,32 @@ These include:
 
 ---
 
+## 📂 Repository Naming Convention
+
+To keep repositories organized and easy to search, i use the following naming format:<code>&lt;prefix&gt;-&lt;project-name&gt;</code>  
+- **Prefix**: identifies the domain/field of the project.  
+- **Project name**: describes the functionality, technology, or purpose.  
+- Use **lowercase letters only** and separate words with `-`.
+
+You can also browse the libraries and projects I starred and found interesting at [DuyetBKU's starred repositories](https://github.com/DuyetBKU?tab=stars).
+
+| # | Domain | Repo Prefix | Example Repo Name |
+|---|--------|-------------|-------------------|
+| 🧠 1 | AI & Machine Learning | `ml-` or `ai-` | `ml-image-classifier`, `ai-chatbot` |
+| 💻 2 | Web Development | `web-` | `web-next-tailwind-starter` |
+| 📱 3 | Mobile Development | `mobile-` | `mobile-flutter-shop`, `mobile-react-native-chat` |
+| 🏗️ 4 | Architecture & BIM | `bim-` | `bim-dynamo-scripts`, `bim-digital-twin` |
+| 🔌 5 | IoT & Embedded Systems | `embedded-` or `mcu-` | `embedded-esp32-buzzer`, `mcu-arduino-sensors` |
+| 🧪 6 | Research & Thesis | `res-` (research) | `res-bim-analysis`, `res-ml-thesis` |
+| 🛠️ 7 | Dev Tools & Extensions | `dev-` | `dev-code-snippets`, `dev-browser-extension` |
+| 📊 8 | Dashboard & Visual Data | `viz-` (visualization) or `dash-` (dashboard) | `viz-iot-data`, `dash-sales` |
+| 🔐 9 | Security & Authentication | `sec-` (security) or `auth-` | `sec-oauth-demo`, `auth-jwt-api` |
+| 🖼️ 10 | UI/UX & Animation | `ui-` or `ux-` | `ui-css-effects`, `ui-landing-page` |
+| 👥 11 | Education | `edu-` | `edu-github-tutorial`, `edu-python-course` |
+
+
+---
+
 ## 📫 Contact
 
 For questions, feedback, or reports, feel free to open an issue or visit my profile: [@DuyetBKU](https://github.com/DuyetBKU)
