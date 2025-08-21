@@ -30,7 +30,14 @@
   <a href="https://github.com/user-attachments/assets/ac8ef384-79f1-4d69-b5d8-e941e7d65a2e">Fool For You - Kastra</a> 
   <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
 </p>
-
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/cd114f04-b1b7-44c4-ab96-0a0780c6bb38" controls style="max-width: 100%; border-radius: 8px;">
+  </video>
+</p>
+<p>
+  <a href="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07">Fool For You - Kastra</a> 
+  <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
+</p>
 </details>
 
 
