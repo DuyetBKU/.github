@@ -30,11 +30,11 @@
   <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
 </p>
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/cd114f04-b1b7-44c4-ab96-0a0780c6bb38" controls style="max-width: 100%; border-radius: 8px;">
+  <video src="https://github.com/user-attachments/assets/a4388e50-b2ed-46f1-bae9-93e957fdd48f" controls style="max-width: 100%; border-radius: 8px;">
   </video>
 </p>
 <p>
-  <a href="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07">Jakarta - Axel Johansson</a> 
+  <a href="https://github.com/user-attachments/assets/a4388e50-b2ed-46f1-bae9-93e957fdd48f">Jakarta - Axel Johansson</a> 
   <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
 </p>
 </details>
