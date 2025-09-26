@@ -217,7 +217,7 @@ https://github.com/DuyetBKU/.github
   <a href="https://en.wikipedia.org/wiki/One_Piece"><img src="https://i.postimg.cc/kG1fP1Hx/onepiece.png" width="100"/></a>
   <a href="https://archive.org/details/rich-dad-poor-dad-by-robert-t.-kiyosaki"><img src="https://i.postimg.cc/MTzDMJ27/richdad.png" width="100"/></a>
   <a href="https://versatile-mage.fandom.com/"><img src="https://i.postimg.cc/hPQ9GtQF/toanchucphapsu.jpg" width="100"/></a>
-  <a href="https://www.1pezeshk.com/wp-content/uploads/2019/07/Sapiens-A-Brief-History-of-Humankind.pdf"><img src="https://i.postimg.cc/jSrJdQrN/sapiens.png" width="100"/></a>
+  <a href="https://staibabussalamsula.ac.id/wp-content/uploads/2023/11/yuval_noah_harari-sapiens_a_brief_histor.pdf"><img src="https://i.postimg.cc/jSrJdQrN/sapiens.png" width="100"/></a>
 </p>
 
 
