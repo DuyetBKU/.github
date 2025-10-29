@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/wBL36Jyn/ITsme.gif" width="200" alt="ME!" />
+  <img src="https://github.com/user-attachments/assets/29be9bf4-b45c-41b3-8564-60ffe9a51578" width="200" alt="ME!" />
 </p>
 
 <p align="center">
@@ -204,7 +204,7 @@ https://github.com/DuyetBKU/.github
     <img src="https://github.com/user-attachments/assets/a14b2cef-4b8e-48bc-8779-bba27fc69b9e" width="420"/>
     <img src="https://i.postimg.cc/4x1sXpvL/Pixel-Art-Wallpaper-GIF.gif" width="420"/>
     <img src="https://github.com/user-attachments/assets/87d2f662-4bb1-45f6-a473-95a55875d2b2" width="200"/>
-    <img src="https://i.postimg.cc/bwW1760j/m10-cr7.gif" width="200"/>
+    <img src="https://github.com/user-attachments/assets/f742a541-4652-49da-98f6-31df9f208178" width="200"/>
 </p>
 
 - <img src="https://i.postimg.cc/cH1d2128/Bookmark.gif" width="20"/> Read book with me? (**Ctrl**+**Click**  or **⌘ Command**+**Click**	to read more in new tab)
