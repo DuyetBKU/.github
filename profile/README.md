@@ -14,6 +14,14 @@
 > *_Click the downward triangle icon (▾) to collapse video section._*  
 
 <p align="center">
+  <video src="https://github.com/user-attachments/assets/52e682d9-58f4-469c-80df-d498c58bb83c" controls style="max-width: 100%; border-radius: 8px;">
+  </video>
+</p>
+<p>
+  <a href="https://github.com/user-attachments/assets/52e682d9-58f4-469c-80df-d498c58bb83c">Call of Silence</a> 
+  <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
+</p>
+<p align="center">
   <video src="https://github.com/user-attachments/assets/65b10648-8864-4885-9b3e-43baa62f8c07" controls style="max-width: 100%; border-radius: 8px;">
   </video>
 </p>
