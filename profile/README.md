@@ -62,11 +62,11 @@
   <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
 </p>
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/215e269a-a7d5-498f-b083-7d29b760c9b3" controls style="max-width: 100%; border-radius: 8px;">
+  <video src="https://github.com/user-attachments/assets/a6d424fc-8b33-4597-8c63-34135d1cf5a6" controls style="max-width: 100%; border-radius: 8px;">
   </video>
 </p>
 <p>
-  <a href="https://github.com/user-attachments/assets/215e269a-a7d5-498f-b083-7d29b760c9b3">Love Story - Indila</a> 
+  <a href="https://github.com/user-attachments/assets/a6d424fc-8b33-4597-8c63-34135d1cf5a6">Love Story - Indila</a> 
   <strong>(Ctrl+Click</strong> or <strong>⌘ Command+Click</strong> to listen in new tab)
 </p>
 <p align="center">
