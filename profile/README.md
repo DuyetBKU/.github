@@ -200,6 +200,8 @@ https://github.com/DuyetBKU/.github
 | **Ars Formworks** | An architecture and construction company operating in design, building systems, and execution of the built environment. | https://github.com/Ars-Formworks |
 | **SmartTwinBKU** | A technology company developing IoT-driven Digital Twin systems for architecture, smart buildings, and electronic platforms. | https://github.com/SmartTwinBKU |
 | **Awentale Company** | A game development company exploring interactive systems, narrative design, and virtual worlds. | https://github.com/Awentale |
+| **Luminis Institute** | A living knowledge archive of the Quarasal ecosystem. | https://github.com/Luminis-Institute |
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
