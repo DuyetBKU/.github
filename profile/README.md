@@ -191,9 +191,7 @@ https://github.com/DuyetBKU/.github
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
-## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="30"/> Organizations
-
-## 🏛 Organizations
+## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="30"/> Affiliated Organizations
 
 | Organization | Description | Link |
 |-------------|-------------|------|
