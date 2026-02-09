@@ -191,13 +191,18 @@ https://github.com/DuyetBKU/.github
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
-## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="30"/> Featured Projects
+## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="30"/> Organizations
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **SmartTwinBKU** | A Digital Twin system for smart buildings that integrates IoT, BIM, and real-time monitoring. | `Next.js`, `MQTT`, `Firebase`, `Autodesk Forge`, `ESP32` |
-| **Liliana AI** | A personalized AI assistant supporting natural language interaction and multi-channel integration. | `React`, `AI SDK`, `Next.js`, `OpenRouter`, `LLMs` |
-| **Architecture Design Toolkit** | Tools and scripts for intelligent architectural design using Revit and Dynamo. | `Revit API`, `Dynamo`, `Python` |
+## 🏛 Organizations
+
+| Organization | Description | Link |
+|-------------|-------------|------|
+| **Q.Devnyx Design Company** | A commercial-focused design company delivering client-oriented web products and scalable digital solutions. | https://github.com/Q-Devnyx-Design |
+| **Unistellis Labs Company** | A technology company and core research lab focused on universal intelligence systems, advanced AI, and future intelligent agents. | https://github.com/Unistellis-Labs |
+| **Ars Formworks Company** | An architecture and construction company operating in design, building systems, and execution of the built environment. | https://github.com/Ars-Formworks |
+| **SmartTwinBKU Company** | A technology company developing IoT-driven Digital Twin systems for architecture, smart buildings, and electronic platforms. | https://github.com/SmartTwinBKU |
+| **Awentale Company** | A game development company exploring interactive systems, narrative design, and virtual worlds. | https://github.com/Awentale |
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
 ## <img src="https://i.postimg.cc/vH2J0Z8K/Github.gif" width="30"/> GitHub Activity
