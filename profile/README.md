@@ -193,7 +193,7 @@ https://github.com/DuyetBKU/.github
 
 ## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="30"/> Affiliated Organizations
 
-| Organization | Description | Link |
+| Organization | Description | Visit |
 |-------------|-------------|------|
 | **Q.Devnyx Design** | Commercial-web design company delivering client-oriented web products and scalable digital solutions. | https://github.com/Q-Devnyx-Design |
 | **Unistellis Labs** | Research lab focused on intelligence systems, advanced AI, and future intelligent agents. | https://github.com/Unistellis-Labs |
