@@ -195,10 +195,10 @@ https://github.com/DuyetBKU/.github
 
 | Organization | Description | Link |
 |-------------|-------------|------|
-| **Q.Devnyx Design Company** | A commercial-focused design company delivering client-oriented web products and scalable digital solutions. | https://github.com/Q-Devnyx-Design |
-| **Unistellis Labs Company** | A technology company and core research lab focused on universal intelligence systems, advanced AI, and future intelligent agents. | https://github.com/Unistellis-Labs |
-| **Ars Formworks Company** | An architecture and construction company operating in design, building systems, and execution of the built environment. | https://github.com/Ars-Formworks |
-| **SmartTwinBKU Company** | A technology company developing IoT-driven Digital Twin systems for architecture, smart buildings, and electronic platforms. | https://github.com/SmartTwinBKU |
+| **Q.Devnyx Design** | A commercial-focused design company delivering client-oriented web products and scalable digital solutions. | https://github.com/Q-Devnyx-Design |
+| **Unistellis Labs** | A technology company and core research lab focused on universal intelligence systems, advanced AI, and future intelligent agents. | https://github.com/Unistellis-Labs |
+| **Ars Formworks** | An architecture and construction company operating in design, building systems, and execution of the built environment. | https://github.com/Ars-Formworks |
+| **SmartTwinBKU** | A technology company developing IoT-driven Digital Twin systems for architecture, smart buildings, and electronic platforms. | https://github.com/SmartTwinBKU |
 | **Awentale Company** | A game development company exploring interactive systems, narrative design, and virtual worlds. | https://github.com/Awentale |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
