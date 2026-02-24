@@ -90,7 +90,8 @@
 
 
 <p align="center">
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2f33f40e-2df7-44a4-a3c6-dc733c4bf625" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/21c7537e-43f9-47a4-a034-176db579f5a0" />
+
 
 </p>
 
