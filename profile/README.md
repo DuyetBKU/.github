@@ -90,7 +90,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29be9bf4-b45c-41b3-8564-60ffe9a51578" width="200" alt="ME!" />
+ <img width="400" alt="image" src="https://github.com/user-attachments/assets/38201462-b965-4148-8792-e0e02b1355c0" />
+
 </p>
 
 <p align="center">
