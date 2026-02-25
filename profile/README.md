@@ -103,11 +103,12 @@
   <br/>
   This is my personal GitHub profile where I share <strong>open-source projects</strong>, <strong>technical resources</strong>, and <strong>hands-on experiences</strong> in the field.
   <br/>
-https://github.com/DuyetBKU/.github
 </p>  
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DuyetBKU&show_icons=true&theme=react" alt="DuyetBKU's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DuyetBKU&theme=react&show_icons=true" alt="DuyetBKU's GitHub stats" />
+  
 </p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />  
