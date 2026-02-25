@@ -218,9 +218,11 @@
   <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/DuyetBKU/.github/output/github-snake.svg" style="display:block; margin:auto; width:100%;" />
 </picture> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gugs881/gugs881/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gugs881/gugs881/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gugs881/gugs881/output/pacman-contribution-graph.svg">
+   <!--  If DARK MODE → dark.svg -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DuyetBKU/.github/output/pacman-contribution-graph-dark.svg">
+  <!-- FALLBACK: Light mode → light.svg -->
+  <img src="https://raw.githubusercontent.com/DuyetBKU/.github/output/pacman-contribution-graph-light.svg">
+  
 </picture>
 
 
