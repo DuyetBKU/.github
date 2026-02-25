@@ -22,11 +22,11 @@ jobs:
 
       # 🟢 Generate pacman graph
       - name: generate pacman-contribution-graph.svg
-        uses: DuyetBKU/pacman-contribution-graph@main
+        uses: DuyetBKU/viz-pacman-github-profile@main
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          theme: react-dark # Options: github, github-dark, gitlab, gitlab-dark, dracula, solarized-light, solarized-dark, monokai, react-light, react-dark
+          theme: github-light # Options: github-light, github-dark, gitlab-light, gitlab-dark, react-light, react-dark, dracula-light, dracula-dark, monokai-light, monokai-dark, solarized-light, solarized-dark
           music: 'false' # Set to 'true' to enable music
 
       # 🚀 Push to output branch
