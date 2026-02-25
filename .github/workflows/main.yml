@@ -26,7 +26,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           include_all_branches: false
-          theme: github
+          theme: neon
 
       # 🚀 Push sang branch output
       - name: push pacman-contribution-graph.svg to the output branch
