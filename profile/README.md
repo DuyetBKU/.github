@@ -88,7 +88,9 @@
 
 </details>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&color=E7C302&center=true&vCenter=true&width=800&height=40&lines=The+Sun+doesn%E2%80%99t+ask+the+Moon+for+permission+to+shine.;It+shines+because+that+is+its+nature" alt="Typing SVG" />
+</p>
 <p align="center">
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b88df672-90ad-4217-ba44-f093edcf9cd3" />
 
