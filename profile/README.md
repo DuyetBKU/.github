@@ -201,7 +201,7 @@
 |-------------|-------------|------|
 | **Q.Devnyx Design** | Commercial-web design company delivering client-oriented web products and scalable digital solutions. | https://github.com/Q-Devnyx-Design |
 | **Unistellis Labs** | Research lab focused on intelligence systems, advanced AI, and future intelligent agents. | https://github.com/Unistellis-Labs |
-| **Ars Formworks** | Architecture and construction company operating in design, building systems, and execution of the built environment. | https://github.com/Ars-Formworks |
+| **Ars Formworks** | Architecture and construction company operating in design, building systems, and execution of the built environment. | https://github.com/Arsworks-org |
 | **SmartTwinBKU** | Technology company developing IoT-driven Digital Twin systems for architecture, smart buildings, and electronic platforms. | https://github.com/SmartTwinBKU |
 | **Awentale Studio** | Game development studio exploring interactive systems, narrative design, and virtual worlds. | https://github.com/Awentale |
 | **Luminis Institute** | Living knowledge archive of the Quarasal ecosystem. | https://github.com/Luminis-Institute |
