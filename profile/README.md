@@ -271,7 +271,7 @@
   <a href="https://zennomi.fandom.com/wiki/Kyoto_Tashuzoku_Anzen_Kikou"><img src="https://i.postimg.cc/Y0zBNHht/Kyoto-Tashuzoku-Anzen-Kikou.png" width="100"/></a>
   <a href="https://en.wikipedia.org/wiki/Mushoku_Tensei"><img src="https://i.postimg.cc/rwb3rmQS/Mushoku-Tensei.png" width="100"/></a>
   <a href="https://en.wikipedia.org/wiki/One_Piece"><img src="https://i.postimg.cc/kG1fP1Hx/onepiece.png" width="100"/></a>
-  <a href="https://archive.org/details/rich-dad-poor-dad-by-robert-t.-kiyosaki"><img src="https://i.postimg.cc/MTzDMJ27/richdad.png" width="100"/></a>
+d-by-robert-t.-kiyosaki"><img src="https://i.postimg.cc/MTzDMJ27/richdad.png" width="100"/></a>
   <a href="https://versatile-mage.fandom.com/"><img src="https://i.postimg.cc/hPQ9GtQF/toanchucphapsu.jpg" width="100"/></a>
   <a href="https://staibabussalamsula.ac.id/wp-content/uploads/2023/11/yuval_noah_harari-sapiens_a_brief_histor.pdf"><img src="https://i.postimg.cc/jSrJdQrN/sapiens.png" width="100"/></a>
 </p>
@@ -279,8 +279,10 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
+<img src="https://github.com/user-attachments/assets/55ab7c17-d4e8-4bc5-b95b-dea49c66444a" width="5000" />
 
-> _"I believe that knowledge should be shared — let’s learn and grow together."_  
+
+> _"Born beneath the crimson moon, destined beyond it."_  
 > <p align="right">— DuyetBKU <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="20" /> —</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
 
