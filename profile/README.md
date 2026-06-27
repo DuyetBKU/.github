@@ -199,7 +199,7 @@
 
 | Company | Description | Visit |
 |-------------|-------------|------|
-| **Q.Gamma** | Architecture, BIM, construction management, and integrated building solutions. From Arsworks company. | https://github.com/Quarasal-Gamma |
+| **Arsworks** | Architecture, BIM, construction management, and integrated building solutions. | https://github.com/Arsworks-org |
 | **Q.Tau** | Mechanical engineering, manufacturing, industrial automation, and robotics solutions. From CND company. | https://github.com/Quarasal-Tau |
 | **Q.Phi** | Wellness, fitness, nutrition, supplements, sports science, and healthy lifestyle solutions. | https://github.com/Quarasal-Phi |
 | **Q.Delta** | Game development studio creating interactive worlds, game technologies, AI systems, and immersive experiences. | https://github.com/Quarasal-Delta |
