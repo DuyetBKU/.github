@@ -197,20 +197,18 @@
 
 ## <img src="https://i.postimg.cc/9QX1Dv6Y/Checklist.gif" width="30"/> Affiliated Organizations
 
-| Organization | Description | Visit |
+| Company | Description | Visit |
 |-------------|-------------|------|
-| **Q.Devnyx Design** | Commercial-web design company delivering client-oriented web products and scalable digital solutions. | https://github.com/Q-Devnyx-Design |
-| **Unistellis Labs** | Research lab focused on intelligence systems, advanced AI, and future intelligent agents. | https://github.com/Unistellis-Labs |
-| **Ars Formworks** | Architecture and construction company operating in design, building systems, and execution of the built environment. | https://github.com/Arsworks-org |
-| **SmartTwinBKU** | Technology company developing IoT-driven Digital Twin systems for architecture, smart buildings, and electronic platforms. | https://github.com/SmartTwinBKU |
-| **Awentale Studio** | Game development studio exploring interactive systems, narrative design, and virtual worlds. | https://github.com/Awentale |
-| **Luminis Institute** | Living knowledge archive of the Quarasal ecosystem. | https://github.com/Luminis-Institute |
-
+| **Q.Gamma** | Architecture, BIM, construction management, and integrated building solutions. From Arsworks company. | https://github.com/Quarasal-Gamma |
+| **Q.Tau** | Mechanical engineering, manufacturing, industrial automation, and robotics solutions. From CND company. | https://github.com/Quarasal-Tau |
+| **Q.Phi** | Wellness, fitness, nutrition, supplements, sports science, and healthy lifestyle solutions. | https://github.com/Quarasal-Phi |
+| **Q.Delta** | Game development studio creating interactive worlds, game technologies, AI systems, and immersive experiences. | https://github.com/Quarasal-Delta |
+| **SmartTwin** | IoT-powered Digital Twin platform for smart buildings, BIM, construction, and industrial systems. | https://github.com/SmartTwin |
+| **Q.Psi** | Psychology, psychotherapy, mental health research, counseling, and human well-being. | https://github.com/Quarasal-Psi |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 
 ## <img src="https://i.postimg.cc/vH2J0Z8K/Github.gif" width="30"/> GitHub Activity
-
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuyetBKU&theme=react-dark" alt="DuyetBKU's GitHub Activity" />
 </p>
