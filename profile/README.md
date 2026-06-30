@@ -3,7 +3,7 @@
   Welcome to DuyetBKU's GitHub <img src="https://i.postimg.cc/c4yd9KCJ/Glowing-Star.gif" width="24" />
 </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1200&height=120&repeat=false&lines=%E2%9C%A6+I%27d+walk+across+the+entire+galaxy+just+to+find+you.+%E2%9C%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=50&letterSpacing=1.5px&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1200&height=120&repeat=false&lines=%E2%9C%A6+Walk+across+the+entire+galaxy+just+to+find+you.+%E2%9C%A6" alt="Typing SVG" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
 <p align="center">
