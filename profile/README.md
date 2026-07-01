@@ -110,9 +110,10 @@
 </p>  
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=DuyetBKU&theme=react&show_icons=true" alt="DuyetBKU's GitHub stats" />
-  
 </p>
-
+<p align="center">
+<img width="200" height="152" alt="Untitled-2" src="https://github.com/user-attachments/assets/ac4d2c00-8cc6-4aff-8db6-bc3bb819f4d0" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:20252a,50:61DAFB&height=100&section=footer" alt="Capsule Render Badge" width="1080" />
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />  
