@@ -276,7 +276,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="5000" />
-<img src="https://github.com/user-attachments/assets/55ab7c17-d4e8-4bc5-b95b-dea49c66444a" width="5000" />
+
 
 
 > _"Born beneath the crimson moon, destined beyond it."_  
